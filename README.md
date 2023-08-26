@@ -39,4 +39,4 @@ Form elements (input, label, select/option, textarea, fieldset, legend,)
 - radio
 - ## Hosted Link
 
-You can access the live preview of the webpage [here]https://rajakhan017.github.io/Personal-Details/
+You can access the live preview of the webpage [here] https://bagheladarsh007.github.io/Personal-details-form/
